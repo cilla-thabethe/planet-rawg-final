@@ -64,7 +64,7 @@
 ## About the Project
 
 <!-- header image of project -->
-![mockup](https://raw.githubusercontent.com/https://github.com/cilla-thabethe/planet-rawg-final/main/src/components/assets/mockup-one.png)
+![image2](https://raw.githubusercontent.com/https://github.com/cilla-thabethe/planet-rawg-final/main/src/components/assets/mockup-one.png)
 
 ### Project Description
 
