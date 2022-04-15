@@ -1,0 +1,28 @@
+.playtime {
+    text-align: center;
+    background-color: rgba(67, 146, 176, 0.1);
+    border: 2px solid rgba(67, 146, 176, 0.8); 
+}
+
+.playtime h1 {
+    font-size: 20pt;
+    margin-top: 8px !important;
+    margin-bottom: 16px;
+    margin-bottom: 16px !important;
+}
+
+.publishers h1 {
+    font-size: 20pt;
+    margin-top: 8px !important;
+    margin-bottom: 16px !important;
+}
+
+.publishers{
+    text-align: center;
+    background-color: rgba(247, 242, 248, 0.1);
+    border: 2px solid rgba(247, 242, 248, 0.8); 
+}
+
+.platforms p {
+    margin-bottom: 32px !important;
+}

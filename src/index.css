@@ -1,0 +1,277 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body, html, h2, h1, h3, h4, p {
+    padding: 0 !important;
+    margin: 0 !important;
+    color: #F7F2F8;
+
+}
+
+body {
+    background-color: #050D1A;
+}
+
+h2 {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    margin-left: 12% !important;
+    padding-bottom: 16px !important;
+    vertical-align: middle;
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+.text-con {
+    margin-top: 64px;
+    margin-left: 8% !important;
+    width: 47%;
+    float: left;
+}
+
+.img-con {
+    width: 350px;
+    height: 350px;
+    margin-left: 8%;
+    float: left;
+}
+
+.SideNav{
+    width: 20%;
+    height: 100vh;
+    position: fixed;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background: rgba(247, 242, 248, 0.02);
+    float: left;
+}
+
+.logo-container{
+    width: 100%;
+    height: auto;
+    float: left;
+}
+
+.logo{
+    width: fit-content;
+    height: 50px;
+    margin-left: 12%;
+    margin-top: 32px;
+    margin-bottom: 12px;
+}
+
+.segmentor{
+    width: 88%;
+    height: 1px;
+    float: right;
+    background-color: #F7F2F8;
+    margin-bottom: 32px;
+}
+
+.nav-links-active {
+    width: 100%;
+    height: auto;
+    background: rgba(67, 146, 176, 0.2);
+    float: left;
+}
+
+.nav-links{
+    width: 100%;
+    height: auto;
+    background: transparent;
+    float: left;
+}
+
+.main-con {
+    width: 80%;
+    float: left;
+    margin-left: 20%;
+}
+
+.large-con {
+    margin-top: 24px;
+    margin-left: 2%;
+    width: 96%;
+    height: auto;
+    background: rgba(247, 242, 248, 0.04);
+    border-radius: 16px;
+    float: left;
+    padding-top: 24px;
+    padding-bottom: 32px;
+    margin-bottom: 8px !important;
+}
+
+.timeline {
+    width: 110%;
+}
+
+.medium-con {
+    margin-left: 2%;
+    width: 47%;
+    height: auto;
+    margin-top: 24px;
+    float: left;
+    background: rgba(247, 242, 248, 0.04);
+    border-radius: 16px;
+    margin-bottom: 8px !important;
+}
+
+.small-con {
+    margin-left: 2%;
+    width: 30.4%;
+    margin-top: 24px;
+    min-height: 500px;
+    height: auto;
+    float: left;
+    background: rgba(247, 242, 248, 0.04);
+    border-radius: 16px;
+    padding-bottom: 24px;
+}
+
+h1 {
+    margin-left: 2% !important;
+    margin-top: 32px !important;
+}
+
+/* .large-con h1 {
+    margin-left: 24px!important;
+} */
+
+.large-con h3 {
+    margin-left: 24px !important;
+}
+
+.large-con p {
+    margin-top: 12px !important;
+    margin-left: 24px !important;
+}
+
+.medium-con h3 {
+    margin-left: 24px !important;
+    margin-top: 16px !important;
+}
+
+.medium-con  h4{
+    margin-left: 24px !important;
+    margin-top: 16px !important;
+    margin-bottom: 16px  !important;
+}
+
+.medium-con p {
+    margin-left: 24px !important; 
+} 
+
+.small-con h3 
+{
+    margin-top: 24px !important;
+}
+
+.small-con p {
+    margin-left: 24px !important;
+    text-align: left !important;
+    margin-top: 24px !important;
+}
+
+.small-con h1 {
+    margin-top: 16px !important;
+}
+
+.small-con {
+    text-align: center;
+    float: left;
+}
+
+.img-game-con {
+    width: 100%;
+    height: 350px;
+    border-radius: 24px;
+    float:left;
+}
+
+img {
+    position: relative;
+    object-fit: cover;
+    width: 100%;
+    border-radius: 16px;
+    height: 350px;
+    float:left;
+}
+
+.overlay {
+    position:absolute;
+    width: 39%;
+    height: 350px;
+    background-color: rgba(5,13,26, 0.7);
+    float: left;
+}
+
+.form-select {
+    margin-left: 24px !important; 
+    margin-bottom: 16px;
+    background-color: transparent;
+    color: #F7F2F8;
+    padding: 8px;
+}
+
+.form-select option {
+    background-color: rgba(5,13,26, 0.8);
+}
+
+.game-info {
+    margin-left: 24px;
+    margin-top: 120px;
+    float: left;
+}
+
+.graph {
+    margin-top: 16px;
+    margin-bottom: 8px;
+    margin-left: 10%;
+    width: 80% !important;
+    height: auto;
+}
+
+.timelinegraph {
+    margin-top: 16px;
+    margin-left: 2%;
+    width: 85% !important;
+}
+
+.footer {
+    margin-top: 64px;
+    width: 96%;
+    height: auto;
+    margin-left: 2%;
+    float: left;
+    padding-bottom: 32px;
+}
+
+.footer-segmentor {
+    margin-bottom: 32px;
+    width: 100%;
+    height: 1px;
+    float: left;
+    background-color: #F7F2F8;
+}
+
+a {
+    color: #4392B0;
+}
+
+.text-con-timeline {
+    width: 96%;
+}
+
+.rawg-link {
+    margin-top: 24px;
+}
