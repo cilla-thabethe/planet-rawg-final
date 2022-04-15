@@ -63,13 +63,12 @@
 ## About the Project
 
 <!-- header image of project -->
-<p align="center">
+<p>
   <a href="https://github.com/cilla-thabethe/planet-rawg-final">
-    <img src="src/components/assets/mockup-one.png" alt="Logo" width="700">
+    <img src="src/components/assets/mockup-one.png" alt="mockup" width="700">
   </a>
 </p>
 
-![mockup](https://raw.githubusercontent.com/https://github.com/cilla-thabethe/planet-rawg-final/src/components/assets/mockup-one.png)
 
 ### Project Description
 
@@ -119,17 +118,32 @@ Run the following in the command-line to install all the required dependencies:
 
 Planet Rawg visualises the latest gaming data you care about straight from the RAWG API.
 
-![mockup](https://raw.githubusercontent.com/https://github.com/cilla-thabethe/planet-rawg-final/src/components/assets/mockup-two.png)
+<p>
+  <a href="https://github.com/cilla-thabethe/planet-rawg-final">
+    <img src="src/components/assets/mockup-two.png" alt="mockup" width="700">
+  </a>
+</p>
+
 ### Dashboard
 
 Users are introduced to the website and can view information about the platforms the games from the RAWG are available on. They can also see the total playtime of the games and a total of all game publishers. 
 
-![mockup](https://raw.githubusercontent.com/https://github.com/cilla-thabethe/planet-rawg-final/src/components/assets/mockup-three.png)
+<p>
+  <a href="https://github.com/cilla-thabethe/planet-rawg-final">
+    <img src="src/components/assets/mockup-three.png" alt="mockup" width="700">
+  </a>
+</p>
+
 ### Data Comparison
 
 Users can select any two games from the dropdown menus, and they will automatically be compared to one another in the charts below the cards. 
 
-![mockup](https://raw.githubusercontent.com/https://github.com/cilla-thabethe/planet-rawg-final/src/components/assets/mockup-four.png)
+<p>
+  <a href="https://github.com/cilla-thabethe/planet-rawg-final">
+    <img src="src/components/assets/mockup-four.png" alt="mockup" width="700">
+  </a>
+</p>
+
 ### Timeline
 
 Users are able to view the dates the video games were released on 
@@ -145,8 +159,11 @@ I started by looking for APIs with sufficient data for the project. After I sett
 
 ### Wireframes
 
-![wireframes](https://raw.githubusercontent.com/https://github.com/cilla-thabethe/planet-rawg-final/src/components/assets/wireframes.png)
-
+<p>
+  <a href="https://github.com/cilla-thabethe/planet-rawg-final">
+    <img src="src/components/assets/wireframes.png" alt="wireframes" width="700">
+  </a>
+</p>
 
 ## Development Process
 
@@ -185,9 +202,18 @@ I created a website using Node.js and React. It is a single web page that uses r
 
 ### Mockups
 
-![mockup](https://raw.githubusercontent.com/https://github.com/cilla-thabethe/planet-rawg-final/src/components/assets/mockup-five.png)
+<p>
+  <a href="https://github.com/cilla-thabethe/planet-rawg-final">
+    <img src="src/components/assets/mockup-five.png" alt="mockup" width="700">
+  </a>
+</p>
+
 <br>
-![mockup](https://raw.githubusercontent.com/https://github.com/cilla-thabethe/planet-rawg-final/src/components/assets/mockup-six.png)
+<p>
+  <a href="https://github.com/cilla-thabethe/planet-rawg-final">
+    <img src="src/components/assets/mockup-six.png" alt="mockup" width="700">
+  </a>
+</p>
 
 ### Video Demonstration
 
@@ -209,7 +235,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-* **Cilla Thabethe** - [email@address](mailto:21100437@virtualwindow.co.za) - [@instagram_handle](https://www.instagram.com/instagram_handle/) 
+* **Cilla Thabethe** - [21100437@virtualwindow.co.za](mailto:21100437@virtualwindow.co.za)
 * **Project Link** - https://github.com/cilla-thabethe/planet-rawg-final
 
 
