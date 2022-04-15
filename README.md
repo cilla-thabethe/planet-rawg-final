@@ -46,7 +46,6 @@
 * [Concept Process](#concept-process)
    * [Ideation](#ideation)
    * [Wireframes](#wireframes)
-   * [Custom UI](#user-flow)
 * [Development Process](#development-process)
    * [Implementation Process](#implementation-process)
         * [Highlights](#highlights)
@@ -65,7 +64,7 @@
 
 <!-- header image of project -->
 
-![image2](https://raw.githubusercontent.com/https://github.com/cilla-thabethe/planet-rawg-final/src/components/assets/mockup-one.png)
+![mockup](https://raw.githubusercontent.com/https://github.com/cilla-thabethe/planet-rawg-final/src/components/assets/mockup-one.png)
 
 ### Project Description
 
