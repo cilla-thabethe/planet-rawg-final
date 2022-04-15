@@ -115,17 +115,17 @@ Run the following in the command-line to install all the required dependencies:
 
 Planet Rawg visualises the latest gaming data you care about straight from the RAWG API.
 
-![mockup](https://raw.githubusercontent.com/https://github.com/cilla-thabethe/planet-rawg-final/main/src/components/assets/mockup-two.png)
+![mockup](https://raw.githubusercontent.com/https://github.com/cilla-thabethe/planet-rawg-final/src/components/assets/mockup-two.png)
 ### Dashboard
 
 Users are introduced to the website and can view information about the platforms the games from the RAWG are available on. They can also see the total playtime of the games and a total of all game publishers. 
 
-![mockup](https://raw.githubusercontent.com/https://github.com/cilla-thabethe/planet-rawg-final/main/src/components/assets/mockup-three.png)
+![mockup](https://raw.githubusercontent.com/https://github.com/cilla-thabethe/planet-rawg-final/src/components/assets/mockup-three.png)
 ### Data Comparison
 
 Users can select any two games from the dropdown menus, and they will automatically be compared to one another in the charts below the cards. 
 
-![mockup](https://raw.githubusercontent.com/https://github.com/cilla-thabethe/planet-rawg-final/main/src/components/assets/mockup-four.png)
+![mockup](https://raw.githubusercontent.com/https://github.com/cilla-thabethe/planet-rawg-final/src/components/assets/mockup-four.png)
 ### Timeline
 
 Users are able to view the dates the video games were released on 
@@ -141,7 +141,7 @@ I started by looking for APIs with sufficient data for the project. After I sett
 
 ### Wireframes
 
-![wireframes](https://raw.githubusercontent.com/https://github.com/cilla-thabethe/planet-rawg-final/main/src/components/assets/wireframes.png)
+![wireframes](https://raw.githubusercontent.com/https://github.com/cilla-thabethe/planet-rawg-final/src/components/assets/wireframes.png)
 
 
 ## Development Process
@@ -181,9 +181,9 @@ I created a website using Node.js and React. It is a single web page that uses r
 
 ### Mockups
 
-![mockup](https://raw.githubusercontent.com/https://github.com/cilla-thabethe/planet-rawg-final/main/src/components/assets/mockup-five.png)
+![mockup](https://raw.githubusercontent.com/https://github.com/cilla-thabethe/planet-rawg-final/src/components/assets/mockup-five.png)
 <br>
-![mockup](https://raw.githubusercontent.com/https://github.com/cilla-thabethe/planet-rawg-final/main/src/components/assets/mockup-six.png)
+![mockup](https://raw.githubusercontent.com/https://github.com/cilla-thabethe/planet-rawg-final/src/components/assets/mockup-six.png)
 
 ### Video Demonstration
 
