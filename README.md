@@ -64,6 +64,9 @@
 ## About the Project
 
 <!-- header image of project -->
+  <a href="https://github.com/cilla-thabethe/planet-rawg-final">
+    <img src="src/components/assets/mockup-one.png" alt="mockup" width="700">
+  </a>
 ![image2](https://raw.githubusercontent.com/https://github.com/cilla-thabethe/planet-rawg-final/main/src/components/assets/mockup-one.png)
 
 ### Project Description
